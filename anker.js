@@ -108,7 +108,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = "#"
 blocked = []
 limitawal = userDefaultLimit
-cr = 'SINULLOK'
+cr = 'LOL~4NK3R-EROR'
 memberlimit = memberLimitss
 
 // Functions
